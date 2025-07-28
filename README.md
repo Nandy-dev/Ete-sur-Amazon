@@ -4,7 +4,7 @@ A static landing page built with HTML and CSS to showcase summer bags and access
 
 ## 🌐 Live Demo
 
-[View the page live on GitHub Pages](https://tonpseudo.github.io/nom-du-repo/)
+[View the page live on GitHub Pages]( https://nandy-dev.github.io/Ete-sur-Amazon/)
 
 ## 🔍 Overview
 
